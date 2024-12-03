@@ -1,0 +1,40 @@
+h1{
+    font-family: "Protest Revolution", sans-serif;
+    color:#00ff7f;
+    font-size:28px;
+    
+}
+p{
+    font-family: "Shadows Into Light", cursive;
+    color:#6495ed;
+    font-size: 20px;
+}
+h2{
+    font-family: "Bokor", system-ui;
+    color:#ffd700;
+    
+}
+body{
+
+    background-color:#c71585;
+}
+.babbi{
+    text-align:center;
+    border:10px solid whitesmoke;
+    margin-top:100px;
+    margin-left:400px;
+    padding:35px;
+    height:200px;
+    width:400px;
+    
+}
+.babbi1{
+    text-align:center;
+    border:10px solid whitesmoke;
+    margin-left: 400px;
+    height:100px;
+    width:420px;
+    margin-top: 50px;
+    padding:20px;
+    
+}
